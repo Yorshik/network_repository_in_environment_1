@@ -1,0 +1,13 @@
+Файл human.txt в ветке demo ничем не отличается от файла human.txt в ветке master после объединения веток master, hat и boots_button.
+Комментарии после того как закинул ветку мастер в удаленный репозиторий:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+итого: 10 коммитов
